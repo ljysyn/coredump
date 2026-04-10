@@ -702,8 +702,8 @@ testcases:
 
 ## 参考文档
 
-- [配置文件格式](specs/001-automated-test-framework/contracts/yaml-configs.md)
-- [CLI命令说明](specs/001-automated-test-framework/contracts/cli-commands.md)
-- [报告格式说明](specs/001-automated-test-framework/contracts/report-format.md)
+- [配置文件格式](contracts/yaml-configs.md)
+- [CLI命令说明](contracts/cli-commands.md)
+- [报告格式说明](contracts/report-format.md)
 - [架构文档](architecture.md)
 - [API参考](api-reference.md)

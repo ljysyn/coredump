@@ -254,5 +254,5 @@ Task 1:N Report
 
 ## 相关文档
 
-- [数据模型文档](../../specs/001-automated-test-framework/data-model.md)
+- [数据模型文档](../../docs/data-model.md)
 - [API参考](../../docs/api-reference.md)

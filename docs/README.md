@@ -230,9 +230,9 @@ tasks:
 ## 配置文件格式
 
 详细的配置文件格式请参考：
-- [YAML配置契约](specs/001-automated-test-framework/contracts/yaml-configs.md)
-- [CLI命令契约](specs/001-automated-test-framework/contracts/cli-commands.md)
-- [报告格式契约](specs/001-automated-test-framework/contracts/report-format.md)
+- [YAML配置契约](contracts/yaml-configs.md)
+- [CLI命令契约](contracts/cli-commands.md)
+- [报告格式契约](contracts/report-format.md)
 
 ## 开发指南
 
@@ -269,10 +269,10 @@ mypy src/
 
 ## 文档
 
-- [架构文档](docs/architecture.md)
-- [用户指南](docs/user-guide.md)
-- [API参考](docs/api-reference.md)
-- [快速开始](specs/001-automated-test-framework/quickstart.md)
+- [架构文档](architecture.md)
+- [用户指南](user-guide.md)
+- [API参考](api-reference.md)
+- [快速开始](quickstart.md)
 
 ## 常见问题
 

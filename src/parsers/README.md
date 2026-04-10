@@ -290,5 +290,5 @@ pytest tests/unit/parsers/ -v
 
 ## 相关文档
 
-- [YAML配置契约](../../specs/001-automated-test-framework/contracts/yaml-configs.md)
-- [数据模型文档](../../specs/001-automated-test-framework/data-model.md)
+- [YAML配置契约](../../docs/contracts/yaml-configs.md)
+- [数据模型文档](../../docs/data-model.md)

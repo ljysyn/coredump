@@ -255,5 +255,5 @@ pytest tests/contract/test_cli_commands.py -v
 
 ## 相关文档
 
-- [CLI命令契约](../../specs/001-automated-test-framework/contracts/cli-commands.md)
+- [CLI命令契约](../../docs/contracts/cli-commands.md)
 - [用户指南](../../docs/user-guide.md)
